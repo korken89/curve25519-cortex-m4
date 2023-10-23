@@ -1,0 +1,3 @@
+[submodule "X25519-Cortex-M4"]
+	path = X25519-Cortex-M4
+	url = https://github.com/Emill/X25519-Cortex-M4.git
